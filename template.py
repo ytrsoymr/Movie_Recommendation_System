@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 list_of_files=[
-    "Artifacts/__init__.py",
+    "artifacts/__init__.py",
     "NoteBook_Experiments/Movie_Recommendation_System.ipynb",
     "NoteBook_Experiments/Sentimental_Analysis_on_reviews.ipynb",
     "static/style.css",
